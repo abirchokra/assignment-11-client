@@ -1,6 +1,6 @@
 # 🌐 [ManageMate]  
 
-**Live Site:** https://assignment-eleven-server-green.vercel.app/
+**Live Site:** https://managemate-7c212.web.app/
 
 ---
 
